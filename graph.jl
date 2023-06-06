@@ -58,6 +58,12 @@ module Graph
         result -> result[1]
     end
 
+    getAllNodes(graph::Container{T}) where {T<:BaseTypes} = begin 
+        keys(graph.adjacencyMap) |> 
+        keySet -> [keySet...] |>
+        nodes -> sort(nodes, by = (x) -> x.id)
+    end
+
     getOutgoingNeighboursIds(graph::Container{T}, node::Node{T}) where {T<:BaseTypes} = begin 
         graph.adjacencyMap[node] |>
         set -> [set...]
