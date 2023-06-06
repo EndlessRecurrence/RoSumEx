@@ -16,13 +16,30 @@ module Graph
 
     struct Container{T<:BaseTypes} 
         adjacencyMap::Dict{Node{T}, Set{Int}}
+        costMatrix::Union{Matrix{Float64}, Nothing}
     
         Container{T}() where {T<:BaseTypes} = new{T}(Dict{Node{T}, Set{Int}}()) 
         Container(elements::AbstractArray{T}) where {T<:BaseTypes} = begin 
             initialAdjacencyMap =
                 map(element -> Node(element), elements) |> 
                 elements -> foldl((acc, x) -> merge!(acc, Dict(x => Set{Int}())), elements, init=Dict())
-            new{T}(initialAdjacencyMap) 
+            new{T}(initialAdjacencyMap, nothing) 
+        end
+        Container(elements::AbstractArray{T}, costs::Matrix{Float64}) where {T<:BaseTypes} = begin 
+            if size(elements)[1] != size(costs)[1] 
+                println(size(elements)[1])
+                println(size(costs)[1])
+                throw(ArgumentError("The sizes of the element array and the cost matrix should be equal."))
+            end
+
+            nodes = map(element -> Node(element), elements) 
+            nodeIds = nodes |> xs -> map(x -> x.id, xs) |> xs -> Set(xs)
+
+            initialAdjacencyMap =
+                nodes |>
+                elements -> foldl((acc, x) -> merge!(acc, Dict(x => setdiff(nodeIds, Set(x.id)))), elements, init=Dict())
+
+            new{T}(initialAdjacencyMap, costs) 
         end
     end
 
