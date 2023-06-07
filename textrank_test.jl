@@ -15,7 +15,7 @@ module TextRankTest
 
     function testRomanianSummaryTextPreprocessing()
         println("Running testRomanianSummaryTextPreprocessing...")
-        labels, sentences = TextRank.processLabelledSummarizationSampleText("Texts/Romanian/1.7 arțar - Sut George.txt")
+        labels, sentences = TextRank.processLabelledSummarizationSampleText("Texts/Romanian/13.txt")
         @assert labels == [[0.3, [1, 8, 9, 12, 13]], [0.5, [1, 4, 8, 9, 11, 12, 13]]]
         @assert sentences == ["Arțarul este un arbore înalt de până la 20 m.", "Trunchiul este neregulat, cu scoarță netedă, cenușie-verzuie.", "Coroana este neregulată.", "Frunzele sunt imparipenat compuse, cu 3-5 foliole.", "Arțarul Japonez este un arbore mic sau arbust cu un frunzis foarte decorativ.", "Toamna, culoarea frunzișului devine roșu carmin.", "Arțarul, arbore înalt, ce ajunge până la 25 m.", "Trunchiul este drept și înalt, cu scoarță cenușie.", "Coroana este larg ovoidală, frunzele sunt mari, palmat-lobate cu vârfuri ascuțite și sinusurile dintre lobi rotunjite.", "Petiolii au latex alb, Florile verzi-galbui, înflorirea are loc înainte de înfrunzire.", "Scoarța este cenușie, iar coroana largă, ovoidal rotunjită.", "Arbore viguros, ce ajunge la înălțimi de 30-40 m.", "Speciile de artar nu necesită îngrijiri deosebite, reușind să se adapteze ușor la condițiile de mediu. ", "Se recomandă ca tăierile de întreținere să se facă în perioada de repaus vegetativ: toamna, după căderea frunzelor sau primăvara devreme."]
         println("Test testRomanianSummaryTextPreprocessing passed.")
@@ -23,9 +23,12 @@ module TextRankTest
 
     function testRomanianTextSummarization()
         println("Running testRomanianTextSummarization...")
-        labels, sentences = TextRank.processLabelledSummarizationSampleText("Texts/Romanian/1.7 arțar - Sut George.txt")
+        labels, sentences = TextRank.processLabelledSummarizationSampleText("Texts/Romanian/13.txt")
         text = foldl((acc, x) -> acc * x * " ", sentences, init="")
         IDs, ranks, resultSentences = TextRank.run(text, "ro")
+        println("Labels: " * string(labels))
+        println("IDs: " * string(IDs))
+        println("Sentences: " * string(resultSentences))
         @assert resultSentences == SubString{String}["Toamna, culoarea frunzișului devine roșu carmin.", "Petiolii au latex alb, Florile verzi-galbui, înflorirea are loc înainte de înfrunzire.", "Speciile de artar nu necesită îngrijiri deosebite, reușind să se adapteze ușor la condițiile de mediu.", " Se recomandă ca tăierile de întreținere să se facă în perioada de repaus vegetativ: toamna, după căderea frunzelor sau primăvara devreme."]
         println("Test testRomanianTextSummarization passed.")
     end

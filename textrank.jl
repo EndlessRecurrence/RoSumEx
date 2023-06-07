@@ -19,7 +19,8 @@ module TextRank
             labelLines -> map(x -> x[findfirst("%", x)[1]-3:end], labelLines) |>
             labelLinesWithoutUselessText -> map(x -> split(x, ":"), labelLinesWithoutUselessText) |>
             labelPairs -> map(x -> [strip(split(x[1], "%")[1]), x[2]], labelPairs) |>
-            labelPairs -> map(x -> [parse(Float64, x[1]) / 100.0, replace(x[2], r"S" => s"")], labelPairs) |>
+            labelPairs -> map(x -> [parse(Float64, x[1]) / 100.0, replace(x[2], r"[Ss]|[^0-9 ]" => s"")], labelPairs) |>
+            # labelPairs -> map(x -> [x[1], replace(x[2], r"," => s"")], labelPairs) |>
             labelPairs -> map(x -> [x[1], filter(token -> token != "", split(x[2], " "))], labelPairs) |>
             labelPairs -> map(x -> [x[1], map(indexAsString -> parse(Int64, indexAsString), x[2])], labelPairs)
 
@@ -88,7 +89,7 @@ module TextRank
             result -> map(pair -> pair[1].id, result) |>
             sentenceIds -> map(id -> sentences[PageRank.getIndex(id, length(sentences))], sentenceIds)
 
-        IDs = nodeRankPairsSortedById |> result -> map(pair -> pair[1].id, result) 
+        IDs = nodeRankPairsSortedById |> result -> map(pair -> PageRank.getIndex(pair[1].id, length(sentences)), result) 
         ranks = nodeRankPairsSortedById |> result -> map(pair -> pair[2], result)
 
         (IDs, ranks, resultSentences)
