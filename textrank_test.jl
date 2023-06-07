@@ -6,8 +6,8 @@ module TextRankTest
         fileHandler = open("Texts/English/english.txt", "r")
         
         text = read(fileHandler, String)
-        result = TextRank.run(text, "en")
-        @assert isequal(result, SubString{String}["The announcement came hours after Jim Mattis, the secretary of defense, said that he would resign from his position at the end of February after disagreeing with the president over his approach to policy in the Middle East.", "Senior Afghan officials and Western diplomats in Kabul woke up to the shock of the news on Friday morning, and many of them braced for chaos ahead.", "The fear that Mr. Trump might take impulsive actions, however, often loomed in the background of discussions with the United States, they said."])
+        IDs, ranks, resultSentences = TextRank.run(text, "en", 0.25)
+        @assert isequal(resultSentences, SubString{String}["The announcement came hours after Jim Mattis, the secretary of defense, said that he would resign from his position at the end of February after disagreeing with the president over his approach to policy in the Middle East.", "The whirlwind of troop withdrawals and the resignation of Mr. Mattis leave a murky picture for what is next in the United States’ longest war, and they come as Afghanistan has been troubled by spasms of violence afflicting the capital, Kabul, and other important areas.", "Senior Afghan officials and Western diplomats in Kabul woke up to the shock of the news on Friday morning, and many of them braced for chaos ahead.", "The fear that Mr. Trump might take impulsive actions, however, often loomed in the background of discussions with the United States, they said."])
 
         close(fileHandler)
         println("Test testEnglishTextSummarization passed.")
@@ -25,8 +25,8 @@ module TextRankTest
         println("Running testRomanianTextSummarization...")
         labels, sentences = TextRank.processLabelledSummarizationSampleText("Texts/Romanian/1.7 arțar - Sut George.txt")
         text = foldl((acc, x) -> acc * x * " ", sentences, init="")
-        result = TextRank.run(text, "ro")
-        println(result)
+        IDs, ranks, resultSentences = TextRank.run(text, "ro")
+        @assert resultSentences == SubString{String}["Toamna, culoarea frunzișului devine roșu carmin.", "Petiolii au latex alb, Florile verzi-galbui, înflorirea are loc înainte de înfrunzire.", "Speciile de artar nu necesită îngrijiri deosebite, reușind să se adapteze ușor la condițiile de mediu.", " Se recomandă ca tăierile de întreținere să se facă în perioada de repaus vegetativ: toamna, după căderea frunzelor sau primăvara devreme."]
         println("Test testRomanianTextSummarization passed.")
     end
 
@@ -34,7 +34,7 @@ module TextRankTest
         println("Running TextRank tests...")
         testEnglishTextSummarization()
         testRomanianSummaryTextPreprocessing()
-        # testRomanianTextSummarization()
+        testRomanianTextSummarization()
         println("All TextRank tests passed.")
     end
 

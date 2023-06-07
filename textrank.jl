@@ -6,12 +6,6 @@ module TextRank
     include("pagerank.jl")
     include("graph.jl")
 
-    @enum TextRankOption begin 
-        ids = 1
-        ranks = 2
-        nodes = 3
-    end
-
     function processLabelledSummarizationSampleText(filename) 
         fileHandler = open(filename) 
 
@@ -55,7 +49,7 @@ module TextRank
         filteredWords -> foreach(word -> v[findall(x -> x == word, words)[1]] += 1.0, filteredWords)
         filter(word -> !(word in stopwords), secondSentence) |>
         filteredWords -> foreach(word -> u[findall(x -> x == word, words)[1]] += 1.0, filteredWords)
-        # cossim(v, u)
+
         cosineDistance = 1 - dot(v, u) / (norm(v) * norm(u)) 
         if isnan(cosineDistance) 1.0 else cosineDistance end
     end
@@ -74,21 +68,30 @@ module TextRank
         similarityMatrix
     end
 
-    function run(text, language="en", compressionRate::Float64=0.25, option::TextRankOption=nodes::TextRankOption)
+    function run(text, language="en", compressionRate::Float64=0.3)
         if compressionRate <= 0.0 || compressionRate >= 1 
             throw(ArgumentError("The compresssion rate should be a number in the range (0, 1)."))
         end
         sentences, tokenizedText = prepareTokenizedText(text) 
-        top = floor(Int64, length(sentences) * compressionRate)
+        top = round(Int64, length(sentences) * compressionRate)
         stopwords = if language == "ro" Stopwords.romanian else Stopwords.english end
         sentenceSimilarityMatrix = createSimilarityMatrix(tokenizedText, stopwords)
         graph = PageRank.Graph.Container(tokenizedText, sentenceSimilarityMatrix) 
+        nodeRankPairs = PageRank.run(graph, sentenceSimilarityMatrix)
 
-        PageRank.run(graph, sentenceSimilarityMatrix) |> 
-        nodeRankPairs -> nodeRankPairs[1:top] |>
-        result -> sort(result, by = (x) -> x[1].id) |>
-        result -> map(pair -> pair[1].id, result) |>
-        sentenceIds -> map(id -> sentences[PageRank.getIndex(id, length(sentences))], sentenceIds)
+        nodeRankPairsSortedById = 
+            nodeRankPairs[1:top] |>
+            result -> sort(result, by = (x) -> x[1].id)
+        
+        resultSentences =
+            nodeRankPairsSortedById |>
+            result -> map(pair -> pair[1].id, result) |>
+            sentenceIds -> map(id -> sentences[PageRank.getIndex(id, length(sentences))], sentenceIds)
+
+        IDs = nodeRankPairsSortedById |> result -> map(pair -> pair[1].id, result) 
+        ranks = nodeRankPairsSortedById |> result -> map(pair -> pair[2], result)
+
+        (IDs, ranks, resultSentences)
     end
     
 end
