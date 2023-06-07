@@ -1,0 +1,18 @@
+
+Sumar de tip extract, 30% (5 fraze): S2 S4 S6 S8 S10
+Sumar de tip extract, 50% (7 fraze): S2 S4 S6 S8 S10 S11 S14
+
+S1: MS-DOS (prescurtat de la Microsoft Disk Operating System) este un sistem de operare comercializat de Microsoft.
+S2: El a fost cel mai utilizat sistem de operare din familia DOS și a dominat sistemele de operare pentru PC în anii 1980.
+S3: El a fost bazat pe familia de microprocesoare Intel 8086, în special pe IBM PC și compatibil.
+S4: El a fost gradual înlocuit de sisteme de operare care oferă interfață grafică, în special diverse generații ale sistemului de operare Microsoft Windows.
+S5: El a fost original cunoscut ca QDOS (Quick and Dirty Operating System) și 86-DOS.
+S6: MS-DOS a fost inițial lansat în 1981 și are opt versiuni majore lansate înainte ca Microsoft să oprească dezvoltarea în 2000.
+S7: El era un produs cheie pentru creșrerea Microsoft datorită diverselor limbaje de programare pe care compania le crea pentru firmele dezvoltatoare de software, furniza venituri importante companiei și resurse de comercializare.
+S8: El a fost sistemul de operare pe care se bazau primele versiuni de Windows executate ca o interfață grafică.
+S9: 86-DOS a fost redenumit MS-DOS de către Seattle Computer Products.
+S10: MS-DOS a continuat să existe ca o platformă pentru desktop-uri.
+S11: Începând cu lansarea Windows 9x, el a fost integrat ca un produs complet utilizat mai mult pentru pornirea sistemului și nu a mai fost lansat oficial ca un sistem de operare de sine stătător.
+S12: Windows XP conține o copie a fișierelor ce compun nucleul MS-DOS 8 din Windows Millennium, accesibile doar prin formatarea unui floppy ca „disc de pornire MS-DOS.
+S13: În Windows Vista fișierele de pe discul de start au data 18 aprile 2005, dar sunt neschimbate, incluzând sirul de caractere „MS-DOS Version 8 (C) Copyright 1981-1999 Microsoft Corp” în fișierul COMMAND_COM.
+S14: Astăzi, DOS este încă utilizat de sisteme x86 datorită arhitecturii simple și cerințelor minime de memorie și procesor.

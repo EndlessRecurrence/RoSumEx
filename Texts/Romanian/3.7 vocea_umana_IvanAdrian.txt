@@ -1,0 +1,35 @@
+
+Sumar de tip extract, 30% (10 fraze): S1 S4 S8 S10 S12 S15 S18 S23 S26 S29
+Sumar de tip extract, 50% (16 fraze): S1 S2 S4 S7 S8 S10 S12 S15 S17 S18 S20 S22 S23 S26 S28 S29
+
+S1: Vocea umană este sunetul natural creat de corzile vocale ale omului, și modulat în gât, gură și cavitățile nazale. 
+S2: Oamenii folosesc vocea pentru a transmite informații în primul rând prin vorbit, dar și prin cântat și alte sunete, ca de exemplu prin strigat, plâns, râs, oftat ș.a.
+S3: În cazul cântatului, se poate spune că vocea umană este un instrument muzical, desigur de natură cu totul specială.
+S4: Alte voci naturale sunt produse de unele animale care dispun de fiziologia și un minim de inteligență necesare.
+S5: Prin contrast, vocea electronică este o voce artificială (care de obicei sună nenatural), sintetizată dinamic de către un computer sau un program de rostit, pe baza unui text scris. 
+S6: Poate folosi orbilor sau analfabeților la citirea unor texte/cuvinte de pe monitorul unui calculator.
+S7: Producerea vocii este un fenomen înnăscut foarte complex, dar se poate referi și la o tehnică foarte complexă, dobândită.
+S8: Vocea la om se produce prin acțiunea (vibrația) celor două corzi vocale din laringe, în cadrul spațiului înconjurător disponibil din zonă.
+S9: Vibrația corzilor vocale poate fi influențată în mod complex prin activarea mușchilor și țesuturilor din apropiere. 
+S10: Tonul de bază la bărbați este în jur de 125 Hz, la femei în jur de 250 Hz (mai înalt), iar la copiii mici este în jur de 440 Hz. 
+S11: Octavele superioare, care sunt parte componentă a vocii naturale, ajung la frecvențe foarte înalte, de până la 12 kHz.
+S12: Vocea umană se dezvoltă puternic în cursul vieții unui om, existand însă și boli, mai mult sau mai puțin grave, care îngreuiază sau chiar împiedică atât formarea unei voci normale, cât și vorbitul în general. 
+S13: Un exemplu de anomalie a vocii și a vorbirii este bâlbâiala, un fenomen fiziologic foarte complex.
+S14: Ramura de medicină care se ocupă cu vindecarea sau ameliorarea dificultăților de vorbire este logopedia.
+S15: Datorată dezvoltării corzilor vocale, la tinerii în creștere (atât la băieți cât și la fete), între circa 11 și 15 ani, are loc de obicei o "schimbare de voce": la băieți tonul vocii coboară cu circa o octavă, iar la fete cu o terță.
+S16: O altă cauză a modificărilor pot fi diverse iritații și infecții. 
+S17: O simplă răgușeală netratată poate duce până la pierderea totală (dar temporară) a vocii („afonie”).
+S18: Unele ocupații necesită un antrenament / o cultivare deosebită a vocii în domeniul vorbirii: spicher (la radio, TV ș.a.), actor de teatru ș.a., prezentator la spectacole, recitator, dar și licitator, profesor de școală, politician și multe altele. 
+S19: Este vorba atât despre îmbunătățirea dicției, sonorității și clarității vocii, cât și a formulărilor și conținutului celor spuse.
+S20: Vocea poate fi antrenată și cultivată și în sens muzical, pentru a deveni cântăreț sau cântăreață profesională. 
+S21: O formă de muzică vocală des întâlnită o constituie corurile de copii, bărbați, femei și mixte, în cadrul cărora un grup de persoane cântă deodată aceeași melodie.
+S22: Pentru înțelegerea teoriei vocii umane sunt necesare mai întâi cunoștințe în multe domenii care influențează proprietățile vocii, cum ar fi fiziologia, anatomia, mecanica, acustica, medicina, psihologia, pedagogia ș.a.
+S23: Vocea umană este un fenomen aproape unic în regnul animal. 
+S24: La om, în special fiziologia laringelui și a zonei înconjurătoare a dat posibilitatea unei ample variabilități a articulării sunetelor și vocii. 
+S25: La toate celelalte animale de pe Pământ (cu unele excepții discutabile - la unele specii de papagali) nu se poate vorbi de o voce formată.
+S26: Posibilitățile excepționale ale vocii umane au condus la apariția și dezvoltarea unei multitudini de limbi vorbite , de-a lungul istoriei și aproape în toate zonele de pe Pământ. 
+S27: Fenomenul vocii umane s-a reflectat puternic și înapoi, spre vorbitori, contribuind în mod decisiv la dezvoltarea gândirii și inteligenței la om, cu toate consecințele acestora individuale și sociale, fiind larg recunoscute drept elemente constitutive, caracteristice, ale însăși naturii omului.
+S28: Unii oameni pot imita foarte bine vocile altora, acest talent putand fi folosit imitând personalități publice în diverse spectacole, parodii, la cabaret etc.
+S29: În mod poate surprinzător, multe specii de papagali învață să imite vocea posesorului și pot „rosti” (stâlcit) câteva cuvinte sau propoziții simple, desigur fără a le și înțelege.
+S30: Ventrilocii sunt persoane în stare să vorbească fără a mișca vizibil gura sau buzele, dând astfel impresia că vorbesc „din burtă”.
+S31: Unii cântăreți (bărbați) se încadrează în registrele de altistă sau chiar de soprană, aceștia purtand numele de „contratenori”.

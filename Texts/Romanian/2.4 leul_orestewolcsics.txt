@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): s1 s3 s4 s5 s7 s12
+Sumar de tip extract, 50% (10 fraze): s1 s3 s4 s5 s7 s8 s10 s12 s13 s14
+
+S1: Leul este o specie de mamifer terestru carnivor din subfamilia Pantherinae, familia Felidae, al doilea ca mărime – după tigru – dintre cele cinci felide mari.
+S2: Este o specie socială, trăind în grupuri formate din câțiva masculi adulți, femele înrudite și pui.
+S3: Leul este un prădător de vârf; deși mănâncă hoituri atunci când apar oportunități și se știe că vânează oameni, specia de obicei nu o face.
+S4: Leul locuiește în savane și zone cu pajiști și arbuști. 
+S5: Este de obicei mai diurn decât alte feline sălbatice, dar se adaptează să fie activ noaptea și în amurg.
+S6: În timpul Neoliticului, leul s-a răspândit în toată Africa, Europa de Sud-Est, Caucaz și Asia de Vest și de Sud, dar a fost redus la populații fragmentate în Africa sub-sahariană și o populație în vestul Indiei.
+S7:  A fost inclusă pe Lista Roșie a IUCN ca fiind o specie vulnerabilă din 1996, deoarece populațiile din țările africane au scăzut cu aproximativ 43% de la începutul anilor 1990.
+S8: Deși cauza declinului nu este pe deplin înțeleasă, pierderea habitatului și conflictele cu oamenii sunt cele mai mari cauze de îngrijorare.
+S9: Unul dintre cele mai recunoscute simboluri animale din cultura umană, leul a fost înfățișat pe scară largă în sculpturi și picturi, pe steaguri naționale și în filmele și literatura contemporană.
+S10: Leii au fost ținuți în menajerie încă de pe vremea Imperiului roman și au fost o specie cheie căutată pentru expoziție în grădinile zoologice din întreaga lume încă de la sfârșitul secolului al XVIII-lea.
+S11: Reprezentările culturale ale leilor erau proeminente în Egiptul antic, iar reprezentările au avut loc în aproape toate culturile antice și medievale.
+S12: Leul este o felină foarte mare, a doua ca mărime după tigru.
+S13: Corpul masiv cu patru labe puternice, foarte musculoase, care se termină cu gheare ascuțite și fălci puternice, este perfect potrivit pentru a doborî și ucide chiar și animale foarte mari.
+S14: Pe distanțe scurte, poate atinge viteze de până la 60 km/h.
+S15: Coama leului mascul este cea mai recunoscută trăsătură a speciei.
+S16: Culoarea coamei variază și se întunecă odată cu vârsta.
+S17: În Parcul Național Serengeti, femelele preferă ca pereche masculii cu o coamă deasă și întunecată.
+S18: Leul alb este o mutație rară de culoare a leului, în special a leului din Africa de Sud.
+S19: Spre deosebire de termenul popular de „regele junglei ”, leul este un animal din câmpiile deschise.
+S20: În Africa, raza de acțiune a leului a cuprins inițial cea mai mare parte a pădurii tropicale din Africa centrală și a deșertului Sahara.

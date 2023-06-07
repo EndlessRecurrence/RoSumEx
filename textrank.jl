@@ -4,6 +4,35 @@ module TextRank
     using LSHFunctions
     include("stopwords.jl")
     include("pagerank.jl")
+    include("graph.jl")
+
+    @enum TextRankOption begin 
+        ids = 1
+        ranks = 2
+        nodes = 3
+    end
+
+    function processLabelledSummarizationSampleText(filename) 
+        fileHandler = open(filename) 
+
+        text = readlines(fileHandler) |> lines -> filter(line -> line != "", lines)
+        textWithoutIndexesWithinTheString = 
+            text[3:end] |>
+            sentences -> map(x -> x[findfirst(": ", x)[1]+2:end], sentences)
+
+        labels = 
+            text[1:2] |> 
+            labelLines -> map(x -> x[findfirst("%", x)[1]-3:end], labelLines) |>
+            labelLinesWithoutUselessText -> map(x -> split(x, ":"), labelLinesWithoutUselessText) |>
+            labelPairs -> map(x -> [strip(split(x[1], "%")[1]), x[2]], labelPairs) |>
+            labelPairs -> map(x -> [parse(Float64, x[1]) / 100.0, replace(x[2], r"S" => s"")], labelPairs) |>
+            labelPairs -> map(x -> [x[1], filter(token -> token != "", split(x[2], " "))], labelPairs) |>
+            labelPairs -> map(x -> [x[1], map(indexAsString -> parse(Int64, indexAsString), x[2])], labelPairs)
+
+        close(fileHandler)
+
+        (labels, textWithoutIndexesWithinTheString)
+    end
 
     function prepareTokenizedText(text) 
         sentences = 
@@ -45,8 +74,12 @@ module TextRank
         similarityMatrix
     end
 
-    function run(text, language="en", top=5)
+    function run(text, language="en", compressionRate::Float64=0.25, option::TextRankOption=nodes::TextRankOption)
+        if compressionRate <= 0.0 || compressionRate >= 1 
+            throw(ArgumentError("The compresssion rate should be a number in the range (0, 1)."))
+        end
         sentences, tokenizedText = prepareTokenizedText(text) 
+        top = floor(Int64, length(sentences) * compressionRate)
         stopwords = if language == "ro" Stopwords.romanian else Stopwords.english end
         sentenceSimilarityMatrix = createSimilarityMatrix(tokenizedText, stopwords)
         graph = PageRank.Graph.Container(tokenizedText, sentenceSimilarityMatrix) 
@@ -55,7 +88,7 @@ module TextRank
         nodeRankPairs -> nodeRankPairs[1:top] |>
         result -> sort(result, by = (x) -> x[1].id) |>
         result -> map(pair -> pair[1].id, result) |>
-        sentenceIds -> map(id -> sentences[id], sentenceIds)
+        sentenceIds -> map(id -> sentences[PageRank.getIndex(id, length(sentences))], sentenceIds)
     end
     
 end

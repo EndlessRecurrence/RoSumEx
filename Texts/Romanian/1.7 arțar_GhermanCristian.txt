@@ -1,0 +1,18 @@
+
+Sumar de tip extract, 30% (5 fraze): S8 S9 S10 S12 S14
+Sumar de tip extract, 50% (7 fraze): S4 S8 S9 S10 S12 S13 S14
+
+S1: Arțarul este un arbore înalt de până la 20 m.
+S2: Trunchiul este neregulat, cu scoarță netedă, cenușie-verzuie.
+S3: Coroana este neregulată.
+S4: Frunzele sunt imparipenat compuse, cu 3-5 foliole.
+S5: Arțarul Japonez este un arbore mic sau arbust cu un frunzis foarte decorativ.
+S6: Limbul foliar este adânc lobat. Toamna, culoarea frunzișului devine roșu carmin.
+S7: Arțarul, arbore înalt, ce ajunge până la 25 m.
+S8: Trunchiul este drept și înalt, cu scoarță cenușie.
+S9: Coroana este larg ovoidală, frunzele sunt mari, palmat-lobate cu vârfuri ascuțite și sinusurile dintre lobi rotunjite.
+S10: Petiolii au latex alb, Florile verzi-galbui, înflorirea are loc înainte de înfrunzire.
+S11:   Scoarța este cenușie, iar coroana largă, ovoidal rotunjită.
+S12: Arbore viguros, ce ajunge la înălțimi de 30-40 m.
+S13: Speciile de artar nu necesită îngrijiri deosebite, reușind să se adapteze ușor la condițiile de mediu. 
+S14: Se recomandă ca tăierile de întreținere să se facă în perioada de repaus vegetativ: toamna, după căderea frunzelor sau primăvara devreme.

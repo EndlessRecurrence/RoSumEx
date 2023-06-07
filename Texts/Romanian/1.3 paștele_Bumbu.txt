@@ -1,0 +1,18 @@
+
+Sumar de tip extract, 30% (5 fraze): S1 S2 S4 S5 S10
+Sumar de tip extract, 50% (7 fraze): S1 S2 S4 S5 S7 S10 S12
+
+S1: Sărbătoarea Paștelui este una dintre cele mai frumoase și încărcate sărbători din calendarul creștin.
+S2: Chiar dacă par desprinse din negura timpului, tradițiile specifice acestei perioade sunt păstrate cu sfințenie, atât în lumea satului tradițional, cât și în spațiul urban.
+S3: Deși, modernizarea se face simțită cu fiecare zi care trece, credințele religioase dau în continuare sens acestor obiceiuri păstrate în perioada pascală și în perioada premergătoare acesteia.
+S4: Unul din aceste obiceiuri amintite este pelerinajul din ajunul sărbătorii Floriilor sau sărbătoarea Intrării Domnului în Ierusalim, obicei devenit o tradiție în ultimii ani, în spațiul bucureștean.
+S5: Puțini știu faptul că, pe teritoriul țării noastre, pelerinajul de Florii datează din perioada interbelică, dar ulterior anului 1948, odată cu instaurarea noului regim, acesta a fost interzis (Luminătorul, Anul lIII, 1912).
+S6: Originea acestui pelerinaj creștin o găsim în secolele III-IV în marile orașe creștine, precum Ierusalimul sau Constantinopolul.
+S7: Încă din perioada Evului Mediu, această sărbătoare se mai numea și „duminica aspiranților” sau a candidaților, făcându-se referire la persoanele care nu erau botezate și mergeau la episcopul din zona respectivă pentru a cere botezul.
+S8: Din cetatea Ierusalimului, sărbătoarea Stâlpărilor (denumire datorată ramurilor verzi de salcie, conform DEX, 2009, 455) a ajuns mai întâi în Egipt, urmând Siria și Asia Mică.
+S9: Chiar dacă după 1948 acest pelerinaj a fost interzis, din anul 2008, an de an, bucureștenii au participat într-un număr impresionant la acest tradițional pelerinaj de Florii, organizat de Arhiepiscopia Bucureștilor.
+S10: Această procesiune devenită tradiție în spațiul bucureștean actual poate fi considerată o rememorare a Intrării în Ierusalim a Domnului, dar poate fi văzut și ca o mărturisire publică de credință.
+S11: Învierea este considerată o sărbătoare a Luminii, deoarece seara sau la miezul nopții, când toți creștinii merg la slujba Învierii, aprind lumânări la mormintele celor morți din neamul lor.
+S12: Un alt obicei specific sărbătorilor pascale este oul înroșit și împodobit.
+S13: În prezent, definiția Paștelui pentru bucureșteni este ieșitul la iarba verde, petreceri, cluburi.
+S14: Dacă în prima zi se merge în vizită la rudele apropiate, în a doua zi de Paști, bucureștenii merg la iarba verde, petrec în voie și se înfruptă din același meniu tradițional.

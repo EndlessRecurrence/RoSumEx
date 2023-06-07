@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S3 S4 S6 S7 S12 S17
+Sumar de tip extract, 50% (10 fraze): S1 S3 S4 S6 S7 S10 S11 S12 S13 S19
+
+S1: Undele radio poartă prin aer conversaţii, muzică, imagini şi date invizibile, câteodată chiar şi la milioane de kilometri depărtare.
+S2: Se întâmplă în fiecare zi, în mii de feluri.
+S3: Chiar dacă undele radio sunt invizibile şi imposibil de detectat de către oameni, ele au schimbat radical societatea umană.
+S4: Fie că vorbim de aparatele de radio, de telefoanele mobile, de telefoanele fără fir sau alte tehnologii wireless, toate acestea folosesc undele radio pentru a comunica.
+S5: Chiar şi sistemele radar sau cuptoarele cu microunde se bazează pe unde radio.
+S6: Sateliţii de comunicaţii şi navigaţie nu ar putea exista, de asemenea, fără undele radio, la fel şi aviaţia modernă – un avion depinde de o mulţime de sisteme radio diferite.
+S7: Tendinţa actuală este spre accesul wireless la internet, bazat tot pe unde radio, mult mai convenabil pentru viitor.
+S8: În esenţa sa, tehnologia undelor radio este una foarte simplă.
+S9: Cu doar câteva componente electronice care costă mai puţin de doi dolari se pot construi emiţătoare şi receptoare de unde radio simple.
+S10: Pe cât de simplă, pe atât de revoluţionară a fost această descoperire pentru universul comunicaţiilor.
+S11: Orice sistem radio are două componente, emiţătorul si receptorul.
+S12: Emiţătorul preia un anumit mesaj sau informaţie (poate fi vocea cuiva, imagini, date digitale pentru modem fără fir), îl codifică în unde sinusoidale şi le transmite pe undele radio.
+S13: Receptorul captează undele radio şi decodifică mesajul de pe undele sinusoidale.
+S14: Şi emiţătorul, şi receptorul folosesc antene pentru a radia şi a prinde semnalul.
+S15: O undă radio este o undă electromagnetică propagată de o antenă.
+S16: Undele radio au frecvenţe diferite şi prin reglarea unui receptor pe o frecvenţă anume se poate capta un anumit semnal.
+S17: Când ascultaţi un post de radio şi prezentatorul spune „Aici, Radio X – 91,5 FM” înseamnă că semnalul radio transmis este de tip FM  (modulaţie în frecvenţă), pe o frecvenţă de 91,5 megahertzi (milioane de cicluri pe secundă).
+S18: 91,5 megahertzi înseamnă că emiţătorul postului de radio oscilează cu o frecvenţă de 91 500 000 cicluri pe secundă.
+S19: Toate posturile FM emit în banda de frecvenţe cuprinse între 88 megahertzi şi 108 megahertzi, bandă a spectrului radio folosită exclusiv pentru emisiile acestor staţii.
+S20: Radioul AM (modulaţie în amplitudine) are o bandă de frecvenţe cuprinsă între 535 kilohertzi şi 1700 kilohertzi (kilo=mii, deci cu o oscilaţie între 535,000 şi 1 700 000  cicluri pe secundă).

@@ -1,0 +1,35 @@
+
+Sumar de tip extract, 30% (10 fraze): S1, S5, S8, S10, S13, S18, S19, S21, S23, S25
+Sumar de tip extract, 50% (16 fraze): S1, S2, S5, S6, S8, S10, S13, S15, S18, S19, S21, S23, S24, S25, S28, S29
+
+S1: Turul Franței este o competiție ciclistă anuală ce se desfășoară în Franța și în țările din jurul ei. 
+S2: Organizată pentru prima dată în anul 1903, acoperă o lungime totală de peste 3.600 km și se întinde pe durata a trei săptămâni. 
+S3: Datorită prestigiului pe care l-a căpătat de-a lungul timpului, competiția atrage la start cicliști și echipe din întreaga lume.
+S4: La finalul celor trei săptămâni, pentru fiecare concurent în parte se cumulează timpii obținuți în fiecare etapă pentru a se determina câștigătorul competiției.
+S5: In fiecare zi, sportivul cu cel mai mic timp acumulat după sfârșitul zilei precedente îmbracă tricoul galben de lider al clasamentului general.
+S6: Traseul competiției se modifică în fiecare an, dar ea se încheie întotdeauna la Paris. 
+S7: Începând cu anul 1975, ultima etapă se desfășoară de-a lungul bulevardului Champs-Élysées.
+S8: De obicei, cele trei săptămâni de competiție includ și două zile de pauză, utilizate uneori pentru a transporta cicliștii dintr-un oraș în care s-a încheiat o etapă în altul în care urmează să înceapă una.
+S9: Traseul competiției variază de la parcurgerea teritoriului Franței în sensul acelor de ceasornic la parcurgerea acestuia în sensul invers acelor de ceasornic.
+S10: The New York Times a spus că „Turul Franței este probabil cea mai solicitantă competiție sportivă, din punct de vedere psihologic”.
+S11: Efortul depus de un ciclist în această competiție a fost comparat cu efortul depus de un atlet în cazul în care „ar alerga câte un maraton pe zi, timp de aproape trei săptămâni.”
+S12: Totodată, suma diferențelor de nivel străbătute de-a lungul cățărărilor unui Tur al Franței a fost comparată cu „escaladarea a trei Everesturi.
+S13: Într-o cursă sunt acceptate între 20 și 22 de echipe, fiecare dintre ele fiind alcătuită din câte nouă cicliști.
+S14: Participarea se face pe bază de invitații trimise echipelor alese de organizatori, Amaury Sport Organisation.
+S15: Coechipierii conlucrează între ei și dispun de o mașină tehnică în care se află managerii și mecanicii.
+S16: Competitorii sunt clasificați în urma adunării timpilor înregistrați în fiecare etapă. 
+S17: Ciclistul cu cel mai mic timp astfel adunat este liderul clasamentului general. 
+S18: Se acordă bonificații de timp sportivilor care termină printre primii etapa și celor care trec printre primii pe la punctele intermediare de cronometrare.
+S19: Există posibilitatea de a câștiga Turul Franței fără a obține vreo victorie de etapă.
+S20: Ca exemplu, se poate aminti anul 2010 când Alberto Contador a triumfat în acest mod; această situație s-a mai întâlnit în alte șase ediții ale Turului. 
+S21: Se întocmesc clasamente subsidiare competiției principale, liderii multora dintre acestea purtând tricouri distinctive.
+S22: În majoritatea etapelor, cicliștii pornesc împreună, iar cel ce trece primul linia de sosire este declarat câștigător de etapă. 
+S23: Totuși, în unele zile se programează etape contratimp, individuale sau pe echipe.
+S24: Câștigătorul Turului este, de obicei, un specialist al etapelor de munte și al acestor etape contratimp.
+S25: Cele mai multe etape se desfășoară pe teritoriul Franței, deși, începând cu anii '60 a devenit o obișnuință ca traseul Turului Franței să treacă și prin țările din apropiere. 
+S26: Andorra, Belgia, Anglia, Germania, Irlanda, Italia, Luxemburg, Monaco, Olanda, Spania și Elveția au găzduit etape sau părți de etapă. 
+S27: Austria, Qatar și Scoția și-au exprimat dorința de a deveni puncte de plecare al viitoarelor ediții.
+S28: Profilul etapelor poate fi plat, vălurit sau montan.
+S29: Din 1975, finalul Turului Franței se desfășoară pe bulevardul Champs-Élysées din Paris.
+S30: Intre 1903 și 1967, competiția se încheia pe stadionul Parc des Princes, situat în vestul Parisului.
+S31: Intre 1968 și 1974, finalul era găzduit de Piste Municipale din sudul capitalei franceze.

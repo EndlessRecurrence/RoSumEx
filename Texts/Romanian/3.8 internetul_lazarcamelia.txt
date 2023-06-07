@@ -1,0 +1,41 @@
+
+Sumar de tip extract, 30% (11 fraze): S2, S6, S7, S11, S12, S14, S15, S16, S25, S27, S37
+Sumar de tip extract, 50% (19 fraze): S1, S2, S3, S4, S5, S6, S7, S8, S9, S11, S12, S14, S15, S16, S18, S19, S25, S27, S37
+
+S1: Potrivit unui comunicat de presă al fundației ECDL în 2008 aproximativ 83 % din populația globală nu folosea Internetul.
+S2: În iulie 2016, o rezoluție ONU a declarat că accesul la internet este un drept uman de bază.
+S3: Potrivit unui studiu întocmit de firma de cercetare on-line InternetWorldStats, în noiembrie 2007 rata de penetrare a Internetului în România a atins nivelul de 31,4 % din totalul populației, estimată la 22,27 milioane de locuitori, iar numărul de conexiuni broadband era de 1.769.300.
+S4: Între 2007 - 2011 numărul conexiunilor la Internet în gospodăriile românești a crescut de la 22 % la 47 %; cifrele corespunzătoare la nivelul Uniunii Europene au fost 54 % și 73 %.
+S5: În ziua de astăzi Internetul este susținut și întreținut de o mulțime de firme comerciale.
+S6: Protocoalele fundamentale ale Internetului, care asigură interoperabilitatea între orice două calculatoare sau aparate inteligente care le implementează, sunt Internet Protocol (IP), Transmission Control Protocol (TCP) și User Datagram Protocol (UDP).
+S7: Aceste trei protocoale reprezintă însă doar o parte din nivelul de bază al sistemului de protocoale Internet, care mai include și protocoale de control si aplicative, cum ar fi: DNS, PPP, SLIP, ICMP, POP3, IMAP, SMTP, HTTP, HTTPS, SSH, Telnet, FTP, LDAP, SSL, WAP și SIP.
+S8: Din cauza multelor fuziuni dintre companiile de telefonie și cele de Internet (Internet Service Providers, prescurtat ISP) au apărut o serie de probleme în sensul că sarcinile acestora nu erau clar delimitate.
+S9: Rețeaua regională a ISP-ului este formată prin interconectarea ruterelor din diverse orașe pe care le deservește compania.
+S10: Dacă pachetul este destinat unui calculator-gazdă deservit direct de către rețeaua ISP, pachetul va fi livrat direct lui.
+S11:  În partea superioară a acestei ierarhii se găsesc operatorii principali de la nivelul backbone-ului rețelei, companii cum ar fi AT&T sau SPRINT.
+S12: Corporațiile și firmele de hosting utilizează așa-numitele „ferme” de servere rapide (= multe servere, situate eventual în aceeași sală sau clădire), conectate direct la backbone.
+S13: Operatorii încurajază pe clienții lor să folosească această conectare directă prin închirierea de spațiu în rack-uri = dulapuri speciale standardizate pentru echipamentul clientului, care se află în aceeași cameră cu ruterul, conducând la conexiuni scurte și rapide între fermele de servere și backbone-ul rețelei.
+S14: Dacă un pachet trimis în backbone este destinat unui ISP sau unei companii deservite de aceeași coloană, el este transmis celui mai apropiat ruter.
+S15: Pentru a permite pachetelor să treacă dintr-un backbone în altul, acestea sunt conectate în NAP-uri (Network Access Point).
+S16: O rețea locală conectează toate aceste rutere astfel încât pachetele să poată fi retransmise rapid din orice coloană în orice alta.
+S17: Unul dintre paradoxurile Internetului este acela că ISP-urile, care se află în competiție între ele pentru câștigarea de clienți, cooperează în realizarea de conectări private și întreținerea Internetului.
+S18: Există un șir întreg de metode de cuplare fizică a unui calculator sau aparat „inteligent” (smart) la Internet.
+S19: Accesul unui utilizator la Internet prin intermediul rețelei de telefon analogice fixe tradițioale: utilizatorul unui calculator cheamă programul de comunicație necesar, care mai întâi se conectează la modem.
+S20: Modemul este o componentă a calculatorului care convertește semnalele digitale (de transmis) în semnale analogice, care pot circula în rețeaua telefonică.
+S21: Semnalele modulate (de fapt datele) sunt transferate la punctul de livrare (Point Of Presence, POP) al ISP-ului, unde sunt preluate din sistemul telefonic și transferate în rețeaua regională de Internet a ISP-ului.
+S22: Din acest punct sistemul este în întregime digital și se bazează pe comutarea de pachete (packet switching); în acest sistem de transmisie informația care trebuie transmisă este "mărunțită" în multe pachete mici, care sunt apoi transmise la destinație în mod independent unele de altele și chiar pe căi diferite; sigur că la destinație pachetele trebuiesc reasamblate în ordinea corectă.
+S23: Pe lângă utilizarea rețelei fixe publice acceași tehnică se poate folosi și pe linii fixe dedicate (închiriate).
+S24: Acest tip de acces a rămas în urmă ca viteză și siguranță în funcționare și nu se mai utilizează aproape deloc.
+S25: Legătură prin radio, de la un telefon celular de tip smartphone, de la un calculator portabil sau, mai general, de la un dispozitiv Internet mobil la antena celulară terestră, utilizând tehnicile GSM sau UMTS.
+S26: Această tehnologie a fost dezvoltată pentru a asigura accesul în zonele izolate la internet de bandă largă, sau în zone în care furnizorii clasici nu au infrastructura dezvoltată.
+S27: Punctul de pornire în dezvoltarea Internetului a fost rivalitatea între cele două mari puteri ale secolului al XX-lea: Statele Unite ale Americii și Uniunea Sovietică.
+S28: Acest fapt a declanșat o îngrijorare deosebită în Statele Unite ale Americii, astfel președintele Eisenhower înființează o agenție specială subordonată Pentagonului: Advanced Research Projects Agency.
+S29: În 1959 John McCarthy, profesor la Universitatea Stanford, al cărui nume va fi asociat cu inteligența artificială, găsește soluția de a conecta mai multe terminale la un singur calculator central: time-sharing (partajarea timpului).
+S30: Aceasta este o modalitate de lucru în care mai multe aplicații (programe de calculator) solicită acces concurențial la o resursă (fizică sau logică), prin care fiecărei aplicații i se alocă un anumit timp pentru folosirea resursei solicitate.
+S31: Apărând apoi primele calculatoare în marile universități se pune problema interconectării acestora.
+S32: Astfel, pentru a transmite informația, aceasta este mărunțită în porțiuni mici, denumite pachete.
+S33: Ca și la poșta clasică, fiecare pachet conține informații referitore la destinatar, astfel încât el să poată fi corect dirijat pe rețea.
+S34: La destinație întreaga informație este reasamblată.
+S35: Deși această metodă întâmpină rezistență din partea specialiștilor, în 1969 începe să funcționeze rețeaua "ARPANET" între 4 noduri: University of California din Los Angeles (UCLA), University of California din Santa Ana, University of Utah și Stanford Research Institute (SRI).
+S36: Toate acestea au fost codificate într-un protocol care reglementa transmisia de date.
+S37: În forma sa finală, acesta era TCP/IP (Transmission Control Protocol / Internet Protocol), creat de Vint Cerf și Robert Kahn în 1970 și care este și acum baza Internetului.

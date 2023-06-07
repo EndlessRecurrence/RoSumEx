@@ -1,0 +1,19 @@
+
+Sumar de tip extract, 30% (5 fraze): S1 S4 S6 S8 S11
+Sumar de tip extract, 50% (8 fraze): S1 S3 S4 S6 S8 S11 S14 S15
+
+S1: Ludwig van Beethoven a fost un compozitor german, recunoscut ca unul din cei mai mari compozitori din istoria muzicii.
+S2: Până relativ recent ziua de 16 decembrie este considerată, în multe lucrări de referință, ca fiind data de naștere a lui Beethoven deoarece se știe că el a fost botezat pe 17 decembrie, ori la vremea respectivă copiii erau botezați la o zi după naștere.
+S3: Mediul familial nu îi era tocmai favorabil, sub autoritatea capricioasă a tatălui, un cântăreț de curte mediocru, alcoolic notoriu.
+S4: În noiembrie 1792 Beethoven pleacă pentru a doua oară la Viena, unde devine elevul lui Joseph Haydn, mai târziu și al lui Antonio Salieri.
+S5: Grație acestor relații și a contactelor cu casele de editură, care îi publică unele compoziții, Beethoven reușește să dobândească o independență, pe care și-a dorit-o cândva și Mozart.
+S6: Prin anul 1818, Beethoven devine complet surd, singura modalitate de a comunica cu interlocutorii erau “caietele de conversații”, în care aceștia scriau în loc să vorbească.
+S7: În același timp apar primele semne ale scăderii auzului, ceea ce îl face să se izoleze tot mai mult de societate.
+S8: Tot mai bolnav, fiind țintuit la pat încă din decembrie 1826, Beethoven moare la 26 martie 1827, în urma unei boli de ficat.
+S9: De la compozitorul medieval, artizan dependent (și de cele mai multe ori umil) aflat în serviciul Bisericii sau al aristocrației, compozitorul devine, odată cu prezența lui Beethoven, un artist care creează dintr-o necesitate interioară și nu la comandă.
+S10: Beethoven, care se găsea pe scenă cu fața la orchestră, nu percepea nimic din cele ce se petreceau în sală, unde lumea ridicată în picioare striga și își agita pălăriile.
+S11: În martie 1795 apare pentru prima dată în fața publicului vienez executând primul său concert pentru pian și orchestră, urmează o serie de concerte la Praga, Dresda, Berlin și Preßburg (Bratislava).
+S12: Beethoven a fost întâmpinat cu cinci salve de aplauze, când, potrivit etichetei, însăși familia imperială era salutată la intrarea în sală doar cu trei salve.
+S13: La înmormântarea în cimitirul Währinger au luat parte mii de locuitori ai Vienei, cuvântul de adio l-a rostit poetul Franz Grillparzer.
+S14: Prima perioadă (1790-1802), cuprinzând compozițiile din tinerețe de la Bonn și primii ani în Viena, reprezintă continuarea stilului lui Haydn și Mozart, și desăvârșesc clasicismul vienez ajuns la maturitate.
+S15: În muzica instrumentală introduce recitative și arii, în fugi, variațiuni și elemente lirice, mereu în căutare de noi moduri de expresie.

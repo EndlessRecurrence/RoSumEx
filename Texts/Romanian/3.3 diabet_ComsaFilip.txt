@@ -1,0 +1,40 @@
+
+Sumar de tip extract, 30% (11 fraze): S1, S2, S3, S4, S5, S9, S12, S14, S18, S23, S29
+Sumar de tip extract, 50% (18 fraze): S1, S2, S3, S4, S5, S7, S8, S9, S12, S14, S16, S18, S21, S23, S29, S32, S34, S36
+
+S1: Diabetul zaharat este un sindrom caracterizat prin valori crescute ale concentrației glucozei în sânge (hiperglicemie) și dezechilibrarea metabolismului.
+S2: Hormonul numit insulină permite celulelor corpului să folosească glucoza ca sursă de energie. 
+S3: Cand secreția de insulină este insuficientă sau când insulina nu-și îndeplinește rolul în organism, afecțiunea se numește diabet zaharat. 
+S4: Diabetul poate fi ținut sub control printr-o supraveghere atentă a dietei și a greutății și prin exerciții fizice, ca supliment al tratamentului medical.
+S5: OMS recunoaște trei forme principale de diabet zaharat : tipul 1, tipul 2 și gestațional (de sarcină).
+S6: Cele mai frecvente forme sunt diabetul zaharat tip 1 și diabetul zaharat tip 2. 
+S7: Termenul diabet zaharat tip 1 a înlocuit mai mulți termeni vechi cum ar fi diabet juvenil și diabet insulino-dependent.
+S8: La fel, termenul diabet zaharat tip 2 a înlocuit denumiri vechi, printre care și diabet insulino-independent (non insulino-dependent).
+S9: Diabetul zaharat de tip 1 se caracterizează prin distrugerea celulelor beta pancreatice producătoare de insulină din insulele Langerhans din pancreas, fapt care conduce la un deficit de insulină.
+S10: Principala cauză este o reacție autoimună mediată de limfocitele T. 
+S11: Diabetul zaharat tip 1 reprezintă aproximativ 10% din cazurile de diabet zaharat din Europa și America de Nord.
+S12: Majoritatea pacienților prezintă debutul în plină sănătate, frecvent la vârsta copilăriei (deși poate să apară la orice vârstă).
+S13: Sensibilitatea la insulină este normală mai ales în stadiile incipiente.
+S14: Diabetul zaharat de tipul 1 necesită tratamentul cu insulină prin injecție.
+S15: Suplimentar, este necesară o dietă destul de strictă, cu cântărirea alimentelor la fiecare masă și calculul numărului de carbohidrați, plus autocontrol glicemic.
+S16: Autocontrolul glicemic se realizeaza prin măsurarea glicemiei din deget cel puțin înaintea fiecărei mese.
+S17: Deși progresele din ultimii ani sunt remarcabile (pen-uri de insulină tot mai avansate, pompe de insulină, inclusiv wireless, senzori de monitorizare continuă a glicemiei), pancreasul artificial sau un alt remediu al acestei boli întârzie încă să apară.
+S18: Diabetul zaharat de tip 2 se datorează rezistenței crescute la insulină a țesuturilor, însoțită de scăderea secreției de insulină. 
+S19: Lipsa de răspuns la insulină a țesuturilor se datorează cel mai probabil modificării receptorului pentru insulină de pe membrana celulară.
+S20: Factorii care pot cauza diabetul tip 2 includ: regimul sedentar de viață și abundența calorică a dietei moderne, fapt concretizat în obezitate sau măcar indici ai masei corporale ridicați, fumatul de tutun, o mărire a nivelului de colesterol, tensiune (presiunea) arterială înaltă.
+S21: Tipul 2 este tratat cu medicație orală o lungă perioadă, el necesitând aportul extern de insulină doar din momentul în care tratamentul oral nu mai este eficient în controlul concentrației glucozei sanguine.
+S22: Un element foarte important în diabetul de tip II este dieta.
+S23: Prin digestie, unele alimente cu carbohidrați sunt transformate în zahăr (glucoză, mai exact) mai repede decât altele, acestea avand un indice glicemic mai inalt.
+S24: Diabeticii ar trebui sa opteze pentru alimentele care se digeră mai lent.
+S25: Un aport de grăsimi și proteine poate să scadă indicele glicemic al unei mese. 
+S26: Toate tipurile de diabet au simptome și complicații similare.
+S27: Hiperglicemia poate duce la deshidratare, și necorijată o perioadă măsurată în săptămâni sau luni, la cetoacidoză.
+S28: Complicațiile de termen lung ("tardive") sunt de ordin vascular și neurologic. 
+S29: Problemele vasculare sunt de 2 tipuri: macrovasculare și microvasculare.
+S30: Cele macrovasculare sunt reprezentate de maladia cardiovasculară (infarct, angină) și accidentul vascular cerebral (AVC)
+S31: Problemele microvasculare sunt nefropatia diabetică (gravă maladie renală) și retinopatia diabetică (problemă care constă într-o alterare continuă și uneori brutală a retinei, fapt care poate conduce la orbire). 
+S32: Tot de natură microvasculară este si piciorul diabetic, care se manifestă printr-o lentoare a vindecării plăgilor pe extremități, infecții repetate și dificil de tratat, gangrenă cu risc de amputare.
+S33: O altă categorie de complicații tardive ale diabetului sunt cele de ordin neurologic, anume neuropatia diabetică, care se manifestă prin pierderea senzației, simțului, în membrele inferioare (picioare) și dureri neuropatice (senzații de durere, arsură, în picioare, fără cauze imediate externe).
+S34: Numărul persoanelor care suferă de diabet s-a dublat în ultimele trei decenii, un studiu estimând că în anul 2011 existau 347 milioane de diabetici la nivel mondial, față de 171 de milioane câți erau în anul 2000.
+S35: În anul 2012, în România existau aproximativ 800.000 de persoane cu diabet zaharat, iar in anul 2006 erau înregistrați 400.000.
+S36: Conform unor studii recente, 1,7 milioane de români au diabet, iar alte trei milioane de persoane suferă de prediabet, urmând să dezvolte această boală în următorii zece ani dacă nu iau măsuri pentru a-și proteja sănătatea.

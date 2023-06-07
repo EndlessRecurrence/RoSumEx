@@ -1,0 +1,37 @@
+
+Sumar de tip extract, 30% (10 fraze): S1 S3 S6 S7 S10 S11 S14 S21 S22 S31
+Sumar de tip extract, 50% (17 fraze): S1 S3 S4 S5 S7 S10 S11 S14 S17 S19 S21 S22 S23 S28 S29 S31 S32
+
+S1: Hinduismul este o religie originară din India și cea mai răspândită credință din această țară.
+S2: La nivel mondial, există peste un miliard de hinduși, în special în India, Sri Lanka, Nepal, Mauritius, Bangladesh, Singapore și Indonezia. 
+S3: Hinduismul este a treia cea mai răspândită și mai importantă religie a lumii, după creștinism și islam.
+S4: Termenul hindus se referea, la origine, la oamenii care locuiau pe cele două maluri ale râului Ind, dar de prin secolul XIII s-a referit pur și simplu la cei care locuiau în India.
+S5: Abia în sec. XVIII a ajuns termenul hindus să fie legat în mod specific de o religie indiană.
+S6: Hindușii aderă la principiile din Veda, un corp de texte sanscrite care datează începând cu anul 1700 î.e.n. 
+S7: Totuși, spre deosebire de tradițiile creștine sau islamice, care au Biblia și Coranul, hinduismul nu aderă la un singur text. 
+S8: Lipsa acestui text unic, printre alte lucruri, face din hinduism o religie greu de definit.
+S9: Hinduismul nu este nici monoteistic, nici politeistic. 
+S10: Hinduismul se concentrează pe spiritul universal, sau Brahman, iar prin asta se permite existența unui panteon întreg de divinități în timp ce poți fi devotat unui singur zeu.
+S11: Din acest motiv, unii s-au referit la hinduism ca la și o religie henoteistă (credința într-un singur zeu în timp ce este acceptată existența sau posibilitatea existenței mai multor zeități). 
+S12: Din moment ce părerile legate de doctrină variază foarte mult printre hinduși, nu există o normă bazată pe ortodoxie sau credință corectă. 
+S13: În contrast, practicile ritualice sunt consistente între diferitele grupuri de hinduși.
+S14: Hinduismul este reprezentat de credința în Brahman, ființă absolută, impersonală, creatoare a Universului Brahmanul este Sinele suprem. 
+S15: Brahman este mai bine descris ca realitate infinită, omniprezentă, omnipotentă, incorporală, transcedentă, conștiință infinită și fericire infinită.
+S16: Conform Veda, Brahman există dintotdeauna și va exista în veci. 
+S17: Este absolutul divin: toți zeii religiei hinduse nu sunt decât fațete și încarnări ale lui Brahman.
+S18: Tradițional, se spune că Brahman se manifestă pe pământ ca și Trimurti: Brahma ca și zeul creator; Vishnu, păstrător al ordinii cosmice; Shiva, distrugătorul.
+S19: Pentru hinduși, atingerea mântuirii se face prin înțelegerea faptului că totul să află într-o comuniune.
+S20: Denumirile și formele diferite pe care le poate lua un zeu sunt imateriale, din moment ce sunt, în esență, Brahman.
+S21: Pentru credincioșii hinduși, conceptul de bhakti este important, insemnand devotamentul, onorarea și dragostea pe care cineva o are pentru zeitate.
+S22: Acțiunile fizice pe care le poate întreprinde cineva pentru a-și exprima bhakti-ul se pot realiza prin mai multe feluri, cum ar fi darshan și puja.
+S23: Darshan reprezintă apariția/vederea unei zeități. 
+S24: Mergând în pelerinaj la un templu sau un altar pentru a vedea un zeu, credinciosul merge acolo pentru a lua darshan.
+S25: Pentru a venera zeitatea, credinciosul trebuie să fie văzut de către zeu, iar la rândul său, acesta trebuie să-l privească pe zeu.
+S26: Reprezentările zeităților au ochii mari, pentru ca aceștia să-l vadă mai ușor pe credincios și pentru ca acesta să facă contact vizual cu ei.
+S27: Zeii nu vor locui în forme pe care nu le consideră demne de statura lor. 
+S28: Pe lângă darshan, venerarea pentru un hindus include și puja (ofranda) ca și formă de onorare. 
+S29: Un credincios poate face puja prin ungerea unei reprezentări divine cu ghee, lapte sau uleiuri ori simpla împodobire a unei reprezentări cu ghirlande de flori.
+S30: Pentru hinduși, timpul și spațiul sunt organizate și concepute ca fiind ciclice—unde o eră se transformă în următoarea. 
+S31: În mitologia hindusă există cicluri de epoci cosmice ce pornesc de la o perioadă de aur (kitri yuga) spre o perioadă întunecată (kali yuga).
+S32: Uciderea vacilor și a păunilor este strict interzisă de către hindușii credincioși. 
+S33: Această religie a fost modificată în ultimul secol prin adoptarea unor elemente creștine.

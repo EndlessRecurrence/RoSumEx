@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S11 S13 S16 S18 S19 S20
+Sumar de tip extract, 50% (10 fraze): S2 S3 S5 S11 S12 S13 S16 S18 S19 S20
+
+S1: Soarele este steaua din centrul Sistemului Solar.
+S2: Este o sferă aproape perfectă din plasmă fierbinte, ținută de gravitație și modelată de un câmp magnetic.
+S3: Este de departe cea mai importantă sursă de energie pentru viața de pe Pământ.
+S4: Diametrul său este de aproximativ 1,39 milioane de kilometri (sau este de 109 ori mai mare decât al Terrei), iar masa sa este de aproximativ 330 000 de ori mai mare decât a Terrei.
+S5: Aproximativ trei sferturi din masa Soarelui este formată din hidrogen ; restul este în mare parte heliu , cu cantități mult mai mici de elemente mai grele, inclusiv oxigen, carbon, neon și fier.
+S6: Soarele este o stea cu secvență principală de tip G.
+S7: Ca atare, este denumită în mod informal și nu complet exact o pitică galbenă (lumina ei este mai aproape de alb decât de galben).
+S8: Masa centrală a devenit atât de fierbinte și densă încât în cele din urmă s-a inițiat fuziunea nucleară în nucleul său.
+S9: Se crede că aproape toate stelele se formează prin acest proces.
+S10: În prezent, Soarele fuzionează aproximativ 600 de milioane de tone de hidrogen în heliu în fiecare secundă, transformând 4 milioane de tone de materie în energie.
+S11: Când fuziunea hidrogenului din nucleu se va diminua până la punctul în care Soarele nu mai este în echilibru hidrostatic, nucleul său va suferi o creștere însemnată a densității și temperaturii în timp ce straturile sale exterioare se extind, transformând în cele din urmă Soarele într-o gigantă roșie.
+S12: S-a calculat că Soarele va deveni suficient de mare pentru a încorpora orbitele actuale ale lui Mercur și Venus și va face Pământul de nelocuit dar după aproximativ cinci miliarde de ani.
+S13: După aceasta, își va revărsa straturile exterioare și va deveni un tip dens de stea în răcire cunoscută sub numele de pitică albă și nu va mai produce energie prin fuziune, dar va continua să strălucească și va elibera căldură din fuziunea sa anterioară.
+S14: Efectul enorm al Soarelui pe Pământ a fost recunoscut încă din timpurile preistorice, iar Soarele a fost considerat în unele culturi o zeitate.
+S15: Formarea Soarelui ar fi putut fi declanșată de unde de șoc de la una sau mai multe supernove din apropiere.
+S16: Acest lucru este sugerat de o abundență mare de elemente grele în Sistemul Solar, cum ar fi aurul și uraniu, în raport cu abundența acestor elemente în stelele de Populație II, sărace în elemente grele.
+S17: Elementele grele ar putea fi cel mai plauzibil produse prin reacții nucleare Reacția endotermice în timpul unei supernove sau prin transmutarea prin absorbție de neutroni în cadrul unei stele masive de a doua generație.
+S18: Soarele este de departe cel mai strălucitor obiect de pe cerul Pământului, cu o magnitudine aparentă de -26,74.
+S19: Soarele nu are o graniță certă, cum au de exemplu planetele telurice, dar în straturile sale exterioare, densitatea gazului scade exponențial pe măsură ce crește distanța de centrul său.
+S20: Pentru a putea fi măsurat, raza Soarelui este considerată a fi distanța de la centrul său până la marginea fotosferei, suprafața vizibilă aparentă a Soarelui.

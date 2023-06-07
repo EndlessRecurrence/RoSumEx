@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S1 S4 S5 S7 S16 S20
+Sumar de tip extract, 50% (10 fraze): S1 S4 S5 S7 S8 S10 S12 S15 S16 S20 
+
+S1: Carbonul (din latină: carbo, „cărbune”) este un element chimic cu simbolul C și numărul atomic 6.
+S2: Este un element nemetalic tetravalent, ceea ce înseamnă că poate forma legături covalente prin punerea în comun a patru electroni.
+S3: Carbonul este unul dintre puținele elemente cunoscute din antichitate.
+S4: Carbonul este al 15-lea cel mai abundent element din scoarța terestră, și al patrulea cel mai răspândit element din univers după masă, primele fiind hidrogenul, heliul și oxigenul.
+S5: Răspândirea naturală mare a carbonului, diversitatea specifică a compușilor săi organici și abilitatea sa unică de a forma polimeri la temperaturi terestre i-au permis carbonului să fie elementul chimic comun al lumii vii.
+S6: Este al doilea cel mai abundent element din corpul uman, după oxigen, reprezentând aproximativ 18,5% în procente de masă.
+S7: Atomii de carbon se pot lega între ei în diferite moduri, formând alotropii carbonului.
+S8: Cele mai cunoscute exemple de alotropi sunt grafitul, diamantul și fulerenele.
+S9: Proprietățile fizice ale carbonului variază mult în funcție de aceste forme alotropice.
+S10: De exemplu, grafitul este negru, moale și opac, în timp ce diamantul este transparent și extrem de dur (mai exact, cel mai dur material natural cunoscut).
+S11: Grafitul este un bun conductor electric, în timp ce diamantul are o conductivitate electrică scăzută.
+S12: În condiții normale de temperatură și presiune, diamantul, nanotuburile de carbon și grafenul sunt materialele cu cea mai mare stabilitate termodinamică cunoscută.
+S13: În aceste condiții, toți alotropii carbonului sunt materiale solide, grafitul fiind cel mai stabil termodinamic.
+S14: Sunt puțin reactivi, de aceea au nevoie de temperatură ridicată chiar și pentru a reacționa cu oxigenul.
+S15: Cel mai întâlnit număr de oxidare al carbonul este +4 și se regăsește în compușii anorganici, în timp ce +2 se regăsește în monoxidul de carbon și în complecșii carbonilici ai metalelor tranziționale.
+S16: Cele mai mari surse naturale de carbon anorganic sunt calcarul, dolomitul și dioxidul de carbon, iar majoritatea carbonului se găsește în materiile organice, în depozitele de cărbune, turbă, petrol și clatrați de metan.
+S17: Carbonul formează un număr mare de compuși chimici, mai mulți decât orice alt elemente, existând aproximativ zece milioane de compuși descriși până în prezent.
+S18: Carbonul a fost descoperit încă din Preistorie și a fost cunoscut în forma sa alotropică de cărbune încă din cele mai îndepărtate timpuri, anume la începutul civilizațiilor umane.
+S19:  O altă formă a sa, diamantul, a fost cel mai probabil cunoscut începând cu anii 2500 în China, în timp ce cărbunele era fabricat în perioada romană prin aceeași metodă folosită și în prezent.
+S20: Printre formele alotropice diferite ale carbonului se numără una dintre cele mai moi substanțe cunoscute, anume grafitul, și cea mai dură substanță întâlnită în natură, anume diamantul.

@@ -1,0 +1,47 @@
+
+Sumar de tip extract, 30% (13 fraze): S1 S2 S3 S4 S7 S8 S12 S13 S22 S24 S34 S35 S39
+Sumar de tip extract, 50% (22 fraze): S1 S2 S3 S4 S7 S8 S9 S12 S13 S15 S16 S17 S18 S20 S22 S24 S29 S31 S34 S35 S39 S42
+
+S1: Cafeaua este o băutură de culoare neagră ce conține cafeină și care se obține din boabe de cafea prăjite și măcinate.
+S2: Boabele de cafea sunt fructele arborilor de cafea din familia Rubiaceae, genul Coffea, cu două varietăți mai importante: Coffea arabica și Coffea robusta (Coffea canephora). 
+S3: Coffea arabica furnizează sorturile cu aromele cele mai fine, pe când Coffea robusta este mai amară și mai puțin aromată.
+S4: Calitatea cafelei este influențată de locul de cultivare, depozitare și procesul de torefiere a boabelor de cafea.
+S5: Cafeaua este un lichid de culoare neagră, este amară și ușor acidulată, având un efect stimulant la oameni datorită conținutului de cafeină.
+S6: Este una dintre cele mai populare băuturi și se poate consumă în diferite forme (de exemplu espresso sau cappuccino).
+S7: De obicei este consumată ca o băutură caldă, dar cafeaua cu gheață este o alternativă răspândită.
+S8: Unele studii indică faptul că are un efect benefic asupra adulților, însă studiile pe termen lung nu au putut demonstra acest lucru datorită calității precare ale acestora.
+S9: Cele mai vechi informații credibile cu privire la consumul de cafea datează din secolul al XV-lea, din Yemen, Peninsula Arabică. 
+S10: În acele regiuni, boabele de cafea au fost pentru prima dată prăjite și consumate într-un mod similar celui din prezent. 
+S11: În anul 2016, Brazilia era pe primul loc în lume din punct de vedere al producției boabelor de cafea, ceea ce se traduce într-o producție de o treime din totalul cafelei produse la nivel mondial.
+S12: Originea denumirii ar proveni din regiunea Koffe din podișul Etiopiei unde au fost descoperite pentru prima dată plante de cafea și apoi introduse în lumea arabă.
+S13: Cafeaua este produsă în peste 50 de țări de pe glob, principalul producător fiind Brazilia, urmată de Vietnam, Columbia, Indonezia și Mexic.
+S14: Originea cafelei s-ar afla într-o regiune a Etiopiei numită Koffe și apoi introdusă în lumea arabă prin Egipt și Yemen, unde începe să se cultive în scopuri comerciale.
+S15: În trecut cafeaua era considerată aliment și nu băutură. 
+S16: Triburile est-africane măcinau boabele crude de cafea și prin amestecarea cu grăsime animală obțineau o pastă pe care războinicii o consumau pentru a avea mai multă energie în timpul luptelor.
+S17: Începând cu anul 1000, renumitul tămăduitor Avicenna, administra cafea sub forma de medicament. 
+S18: Etiopienii obțineau un fel de vin din fructele de cafea, prin fermentarea în apă a boabelor uscate.
+S19: În secolul al XVI-lea, cafeaua se răspândește în Orientul Mijlociu (Persia și Turcia).
+S20: Din Orientul Mijlociu cafeaua s-a răspândit în India, Indonezia și America, dar și în Italia, prin schimburile comerciale dintre negustorii venețieni și cei din Africa de Nord și Egipt.
+S21: Din Italia a fost introdusă în restul Europei și acceptată pe scară largă după 1600 când Papa Clement al VIII-lea a numit-o „băutură creștină”, în ciuda provenienței sale. 
+S22: Compania elvețiană Nestlé a pus bazele producției industriale în 1938 cu produsul său Nescafé.
+S23: În Italia Luigi Bezzera inventează aparatul de espresso în 1901, care este perfecționat de Achilles Gaggia în 1946, obținând astfel primul Cappuccino.
+S24: Se cunosc aproape 80 de soiuri de cafea, din care se cultivă în scopuri industriale soiurile Arabica, Robusta, Liberica și Maragogype.
+S25: Arabica este cea mai apreciată și cultivată cafea.
+S26: Arabica se obține din arborele coffea arabica originar din Etiopia și numără aproape 200 de specii. 
+S27: Cafea solubilă sau cafea instant, este un derivat obținut din boabe de cafea zdrobite.
+S28: Cafeaua decafeinizată sau decofeinizată, numită și cafea dietetică, este obținută în urma unui proces industrial de extragere al cafeinei din boabele verzi de cafea, în procentaj de 97-98%, numit decofeinizare.
+S29: Metoda tradițională de plantare a cafelei este de a plasa 20 de semințe în fiecare gaură la începutul sezonului ploios
+S30: Prin această metodă se pierde circa 50% din potențialul semințelor, aproximativ jumătate nu reușesc să înmugurească.
+S31: O metodă mai eficientă de cultivare a cafelei este folosită în Brazilia, respectiv creșterea de puieți în pepiniere, care sunt apoi plantați în exterior după șase până la douăsprezece luni. 
+S32: Cafeaua este adesea cultivată întrepătruns cu culturi alimentare, cum ar fi porumb, fasole, sau orez, în primii ani de cultivare, pentru ca fermierii să se familiarizeze cu cerințele sale.
+S33: Prelucrarea reprezintă o serie de procese la care urmează să fie supuse boabele de cafea, cum ar fi procesarea, prăjirea și măcinarea.
+S34: În prezent cafeaua este consumată aproape în fiecare țară, fiind o marfă deosebit de importantă atât pentru producători, cât și pentru consumatori.
+S35: Pe piața mondială cafeaua se situează pe locul doi, după petrol, în privința importanței economice și alături de oțel și cereale, printre materiile prime de export cele mai valoroase.
+S36: Situația economică a multor țări producătoare de cafea depinde aproape în întregime de exportul acesteia. 
+S37: Cele mai importante piețe de negociat ale cafelei se află la New York și Londra. 
+S38: Prețul cafelei diferă mult, în funcție de cerere și ofertă și este în mod continuu influențat de factori cum ar fi modificările de climă, evenimente politice, calitate, volumul producției de cafea.
+S39: În 2019, producția mondială anuală de cafea verde se apropie de 8 milioane de tone.
+S40: Brazilia este producătorul cel mai mare cu 3.009.402 tone boabe de cafea verde, ceea ce reprezintă circa 38,19 % din producția mondială.
+S41: Cafeaua este una dintre cele mai consumate băuturi la nivel mondial.
+S42: În anul 2014, statisticile arătau că, în lume, se serveau aproximativ 1,4 miliarde de căni de cafea pe zi.
+S43: În România, consumul de cafea este de circa 2 kg pe cap de locuitor în fiecare an, ceva mai puțin decât media europeană de 3 kg pe cap de locuitor.

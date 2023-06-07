@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S1 S3 S4 S8 S10 S12
+Sumar de tip extract, 50% (10 fraze): S1 S3 S4 S5 S8 S10 S11 S12 S15 S16 
+
+S1: Depresia, numită medical depresie clinică sau depresie majoră, este o tulburare afectivă marcată de cel puțin două săptămâni la rând cu o dispoziție redusă față de majoritatea situațiilor care afectează viața profesională sau personală.
+S2: Frecvent, poate fi însoțită de o stima de sine scăzută, energie redusă, pierderea interesului pentru activități care erau plăcute anterior.
+S3: Doctorii estimează că în 2021 depresia va deveni a doua cauză de dizabilitate la nivel mondial după bolile de inimă.
+S4: În prezent, 121 de milioane de oameni sunt diagnosticați cu depresie.
+S5: Cercetătorii cred că doar un număr mic de persoane constientizează că suferă de depresie și sunt dispuși să ceară ajutor.
+S6: Posibilele motive sunt frica de stigmatizare socială, ignoranța și orgoliul personal.
+S7: Cel mai bun mod de a-ți da seama dacă suferi de depresie este să te informezi.
+S8: Simptomele depresiei sunt complexe și variază de la o persoană la alta, în general, o persoană depresivă se simte tristă, și-a pierdut interesul pentru activitățile care îi aduceau plăcere (muzică, filme, sport, ieșiri cu prietenii) și pare că nu mai are speranță.
+S9: Simptomele pot persista săptămâni sau chiar luni la rând și pot afecta activitatea profesională, viața de familie și viața socială.
+S10: Factorii de risc cresc probabilitatea de a dezvolta o boală.
+S11: În ceea ce privește depresia, există mai mulți factori de risc care pot fi implicați, inclusiv cauzele genetice, psihologice sau de mediu.
+S12: Factorul genetic joacă un rol semnificativ în depresie, dacă ai o rudă apropiată precum unul dintre părinți sau un frate cu depresie, ai un risc de 2-3 ori mai mare de a dezvolta boala prin comparație cu persoanele fără rude apropiate depresive.
+S13: Dacă un nivel redus de stres ne ține motivați, expunerea prelungită la stres poate duce la depresie.
+S14: Expunerea prelungită la stres duce la stimularea activității axei HPA, adică interacțiunea dintre hipotalamus, glanda hipofiză și glandele suprarenale.
+S15: Persoanele care au trecut prin abuzuri sau traume, mai ales în copilărie, au un risc mai mare de depresie.
+S16: Femeile au un risc de două ori mai mare de depresie decât bărbații.
+S17: Furnizarea nutrienților necesari asigură funcționarea normală a creierului, iar în lipsa unor nutrienți există un risc mai mare de afecțiuni fizice sau mentale, inclusiv de depresie.
+S18: Datele arată că alimentele procesate pot crește riscul de depresie, iar consumul ridicat de carbohidrați este asociat cu simptome specifice depresiei la femei.
+S19: O dietă echilibrată și variată oferă protecție împotriva depresiei.
+S20: Doctorii spun că anumite trăsături cresc probabilitatea de apariție a depresiei.

@@ -86,9 +86,15 @@ module Graph
         neighbours -> map(x -> x.id, neighbours)
     end
 
+    getIndex(nodeId, numberOfNodes) = begin
+        remainder = mod(nodeId, numberOfNodes)
+        if remainder == 0 numberOfNodes else remainder end
+    end
+
     Base.show(io::IO, container::Container) = begin 
         println(string(typeof(container)) * " with " * string(length(container.adjacencyMap)) * " entries:")
         foreach(x -> println(string(x.first) * " -> " * string(x.second)), container.adjacencyMap)
     end
 
+    export getIndex 
 end

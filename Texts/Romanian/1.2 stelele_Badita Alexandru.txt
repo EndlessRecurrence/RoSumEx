@@ -1,0 +1,19 @@
+
+Sumar de tip extract, 30% (5 fraze): S1 S4 S9 S11 S14
+Sumar de tip extract, 50% (8 fraze): S1 S2 S3 S4 S6 S9 S11 S14
+
+S1: O stea (latină stella) este un obiect astronomic format dintr-un sferoid luminos de plasmă ținut împreună de propria sa gravitație.
+S2: Cea mai apropiată stea de Pământ este Soarele.
+S3: Multe alte stele sunt vizibile cu ochiul liber de pe Pământ în timpul nopții, apărând ca o multitudine de puncte luminoase fixe pe cer datorită distanței lor imense de Pământ.
+S4: Istoric, cele mai proeminente stele au fost grupate în constelații și asterisme, dintre care cele mai strălucitoare au obținut nume proprii.
+S5: Astronomii au realizat cataloage de stele care identifică stelele cunoscute și oferă o standardizare a denumirilor stelare.
+S6: Cel puțin pentru o parte a existenței sale, o stea strălucește datorită fuziunii termonucleare a hidrogenului în heliu în nucleul său, eliberând energie care traversează interiorul stelei și apoi radiază în spațiul exterior.
+S7: Aproape toate elementele mai grele decât heliul sunt create de nucleosinteza stelară în timpul vieții stelei, iar pentru unele stele prin nucleosinteza supernovei atunci când explodează.
+S8: Aproape de sfârșitul vieții sale, o stea poate conține și materie degenerată.
+S9: Astronomii pot determina masa, vârsta, metalicitatea (compoziția chimică) și multe alte proprietăți ale unei stele prin observarea mișcării sale prin spațiu, luminozitatea ei și, respectiv, spectrul.
+S10: Alte caracteristici ale unei stele, inclusiv diametrul și temperatura, se schimbă de-a lungul vieții sale, în timp ce mediul stelei afectează rotația și mișcarea acesteia.
+S11: Viața unei stele începe cu colapsul gravitațional al unei nebuloase gazoase din material compus în principal din hidrogen, alături de heliu și urme de elemente mai grele.
+S12: Când nucleul stelar este suficient de dens, hidrogenul este transformat în heliu prin fuziunea nucleară, eliberând energie în acest proces.
+S13: Restul interiorului stelei transportă energia departe de nucleu printr-o combinație de procese de transfer de căldură radiativă și convectivă.
+S14: Presiunea internă a stelei o împiedică să colapseze sub propria sa gravitație.
+S15: Sistemele binare și multi-stele constau din două sau mai multe stele care sunt legate gravitațional și se deplasează una în jur.

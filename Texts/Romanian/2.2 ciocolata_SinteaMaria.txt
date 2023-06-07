@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S1 S2 S3 S5 S6 S8
+Sumar de tip extract, 50% (10 fraze): S1 S2 S3 S5 S6 S8 S12 S13 S16 S19
+
+S1: Ciocolata este un produs alimentar obținut dintr-un amestec de cacao, lapte de cocos, zahăr, uneori lapte și unele arome specifice.
+S2: Ciocolata este servită, de obicei, sub formă de tabletă, baton, praline, înghețată sau alte produse de cofetărie.
+S3: Ciocolata neagră, numită și ciocolată amăruie, este un amestec de cacao și unt de cacao cu zahăr.
+S4: Ea conține minimum 35% cacao, proporția depinzând de fabricant.
+S5: Ciocolata cu lapte conține, conform reglementărilor UE impuse, un minim de 25% substanță uscată de cacao și 12 % substanță solidă de lapte (în general lapte praf sau lapte condensat).
+S6: Prima ciocolată cu lapte a fost lansată de elvețianul Daniel Peter în 1875.
+S7: Ciocolata albă este ciocolata produsă din unt de cacao, zahăr, lapte, vanilie și alte arome.
+S8: Cristofor Columb (1502) a fost primul explorator care a luat contact cu boabele de cacao din Lumea Nouă.
+S9: Aduse în Europa, acestea nu s-au bucurat de o prea mare atenție, deoarece nimeni nu știa la ce folosesc.
+S10: În 1519, conchistadorul Hernando Cortez a descoperit că Montezuma, conducătorul aztecilor, obișnuia să bea o băutură preparată din semințe de cacao, numită "chocolatl".
+S11: Montezuma obișnuia să bea aproape cincizeci de căni pe zi, el i-a servit lui Hernando Cortez această băutură regală, pe care acesta a găsit-o cam amară pentru gustul său.
+S12: Locuitorii Spaniei au început, treptat, să aprecieze miraculosul preparat, servit cu precădere de aristocrație.
+S13: Fructele de cacao serveau ca monedă de schimb, iar amanda (pulpa de cacao) se folosea pentru prepararea băuturii zeilor, "tchocolaltl", ciocolata cu efecte stimulatorii pentru înlăturarea oboselii și cu gust foarte plăcut.
+S14: Arborele de cacao poate atinge 8 metri în 12 ani, înflorește în tot cursul anului, având aproape 100.000 flori în buchete, dar din care doar 0,2 % dau fructe.
+S15: În secolul XIX s-au produs două transformări importante în istoria ciocolatei.
+S16: La scurt timp, o nouă invenție a marcat istoria ciocolatei: temperatura de topire mai scăzută decât cea a corpului uman.
+S17: Deși ciocolata este mâncată de plăcere, consumul de ciocolată cacao/ciocolată amăruie a fost dovedit a afecta benefic sistemul circulator.
+S18: Alte studii au fost efectuate pentru a dovedi efecte anticancerigene, de stimulator cerebral, inhibitor al tusei și inhibitor al diareei.
+S19: Un studiu prezentat de către BBC a arătat că în timpul topirii ciocolatei în gură, creierul uman cunoaște o creștere a activității electrice, iar ritmul cardiac crește mai mult decât în timpul unui sărut pasional și senzația durează de patru ori mai mult.
+S20: Evaluările studiilor preclinice indică faptul că consumul frecvent și excesiv pe termen lung de alimente bogate în grăsimi sau zahăr poate produce o dependență (dependență alimentară).

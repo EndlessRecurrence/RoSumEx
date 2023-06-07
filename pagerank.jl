@@ -69,5 +69,5 @@ module PageRank
             pairs -> sort(pairs, by = (x) -> x[2], rev=true)
     end
 
-    export run
+    export run, getIndex
 end

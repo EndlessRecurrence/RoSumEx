@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S1 S6 S13 S15 S17 S18
+Sumar de tip extract, 50% (10 fraze): S1 S2 S6 S9 S10 S13 S15 S17 S18 S19
+
+S1: Radiația (razele) X sau radiația (razele) Röntgen sunt radiații electromagnetice ionizante, cu lungimi de undă mici, cuprinse între 0,01 și 100 ångström.
+S2: Lungimile de undă cu raze X sunt mai scurte decât cele ale razelor UV și de obicei sunt mai lungi decât cele ale radiațiilor gamma.
+S3: Razele X formează radiația X, o formă de radiație electromagnetică.
+S4: Cele mai multe raze X au o lungime de undă cuprinsă între 0,01 și 10 nanometri, corespunzând frecvențelor cuprinse între 30 petahertz și 30 exahertz.
+S5: În multe limbi, radiația X este menționată cu termeni care denotă radiația Röntgen, după ce omul de știință german Wilhelm Röntgen.
+S6: În timpul unor experimente, fizicianul german Wilhelm Conrad Röntgen, bombardând un corp metalic cu electroni rapizi, a descoperit că acesta emite radiații foarte penetrante, radiații pe care le-a denumit raze X (descoperire realizată în anul 1895).
+S7: Radiațiile X au fost numite mai târziu radiații Roentgen sau Röntgen.
+S8: Fizicianul german Wilhelm Röntgen este de obicei creditat ca descoperitor de raze X în 1895, deoarece el a fost primul care le studiază sistematic, deși nu este primul care a si observat efectele.
+S9: El este și cel care le-a dat denumirea de "raze X" (care semnifică o cantitate necunoscută ), deși multe altele le-au denumit "raze Röntgen" (și radiografiile asociate cu raze X ca "Röntgenograme") pentru la câteva decenii după descoperirea lor și chiar și până în prezent în unele limbi, inclusiv în limba germană a lui Röntgen.
+S10: S-au găsit raze X provenind din tuburile Crookes, tuburi experimentale de descărcare inventate în jurul anului 1875, de către oamenii de știință care investigau razele catodice, adică grinzile electronice energetice, create mai întâi în tuburi.
+S11: Tuburile Crookes au creat electroni liberi prin ionizarea aerului rezidual în tub printr-o tensiune DC ridicată de oriunde între câțiva kilovolți și 100 kV.
+S12: Această tensiune a accelerat electronii proveniți de la catod la o viteză suficient de mare încât au creat raze X atunci când au lovit anodul sau peretele de sticlă al tubului.
+S13: Descoperirea razelor X a stimulat o adevărată senzație.
+S14: Aceasta a fost probabil o estimare conservatoare, dacă se consideră că aproape fiecare lucrare din întreaga lume a raportat în mod extensiv despre noua descoperire, cu o revistă, cum ar fi Știința, dedicându-i numai 23 de articole în acel an.
+S15: Utilizarea razelor X în scopuri medicale (care a evoluat în domeniul radioterapiei) a fost pionieră de către maiorul John Hall-Edwards din Birmingham, Anglia.
+S16: Apoi, în 1908, el a trebuit să aibă brațul stâng amputat din cauza răspândirii dermatitei cu raze X pe brațul lui.
+S17: În 1914, Marie Curie a dezvoltat aparate radiologice pentru a sprijini soldații răniți în Primul Război Mondial, mașini ce permiteau imagistica rapidă cu raze X pentru soldații răniți pe câmpul de luptă; astfel chirurgii puteau să opereze mai rapid și cu mai multă acuratețe.
+S18: Din anii 1920 până în anii 1950, mașinile cu raze X au fost dezvoltate pentru a ajuta la montarea încălțămintei și au fost vândute la magazinele de încălțăminte comerciale.
+S19: Preocupările privind impactul utilizării frecvente sau prost controlate au fost exprimate în anii 1950, care au dus la sfârșitul final al practicii în deceniul respectiv.
+S20: Microscopul cu raze X a fost dezvoltat în anii 1950.

@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S1 S2 S7 S14 S18 S19
+Sumar de tip extract, 50% (10 fraze): S1 S3 S12 S13 S6 S10 S16 S17 S18 S20
+
+S1: Nikola Tesla a fost un inventator, fizician, inginer mecanic, inginer electrician și unul dintre promotorii cei mai importanți ai electricității comerciale.
+S2: Tesla este considerat ca fiind un important om de știință al sfârșitului de secol XIX și începutului de secol XX.
+S3: Invențiile, precum și munca teoretică ale lui Tesla au pus bazele cunoștințelor moderne despre curentul alternativ, puterea electrică, sistemele de curent alternativ, incluzând sistemele polifazice, sistemele de distribuție a puterii și motorul pe curent alternativ, care au determinat cea de-a doua Revoluție Industrială.
+S4: Tesla era etnic sârb, fiind născut în satul Smilijan, în Imperiul Austriac (actualmente în Croația).
+S5: Era cetățean al Imperiului Austriac prin naștere și mai târziu a devenit cetățean american.
+S6: Prin demonstrația lui de comunicare fără fir prin intermediul undelor radio în 1894 și după victoria în „războiul curenților”, a fost recunoscut ca fiind unul dintre cei mai mari ingineri electricieni ai S.U.A.
+S7: Mare parte din munca sa inițială a fost pionierat în ingineria electrică modernă și multe dintre descoperirile lui au fost de foarte mare importanță.
+S8: În toată această perioadă, în Statele Unite faima lui Tesla rivaliza cu a oricărui inventator sau om de știință al vremii, dar din cauza afirmațiilor sale aparent incredibile și în unele cazuri aproape neverosimile despre dezvoltarea invențiilor și inovațiilor științifice și tehnologice, Tesla a fost în final etichetat drept un om de știință nebun.
+S9: Amprenta lui Tesla poate fi observată în civilizația modernă oriunde este folosită electricitatea.
+S10: Pe lângă descoperirile sale despre electromagnetism și inginerie, Tesla este considerat un pionier în domeniile roboticii, balisticii, științei calculatoarelor, fizicii nucleare și fizicii teoretice.
+S11: Nikola Tesla considera cercetarea diferitelor întrebări ridicate de către știință drept cea mai nobilă metodă de îmbunătățire a condiției umane cu ajutorul principiilor științei și progresului industrial și una care să fie compatibilă cu natura.
+S12:  În 1893 s-a organizat în Chicago o expoziție publică a curentului alternativ, demonstrându-se superioritatea acestuia asupra curentului continuu al lui Edison.
+S13: Hotărârea lui Tesla în a demonstra superioritatea curentului alternativ asupra curentului continuu al lui Edison a generat ceea ce se cunoaște drept "războiul curenților". 
+S14: La finalul secolului XIX, Tesla a demonstrat că folosind o rețea electrică de rezonantă și ceea ce în acel timp era cunoscut drept "curent de înalță frecventă" (azi se consideră de joasă frecventă), era nevoie doar de un conductor pentru a alimenta un sistem electric, fără a fi necesar niciun alt metal sau conductor de pământ.
+S15: Tesla a denumit acest fenomen "transmisia de energie electrică prin intermediul unui singur cablu fără întoarcere".
+S16: n primăvara anului 1891, Tesla a realizat demonstrații cu diverse mașini la Institutul American de Inginerie Electrică la Universitatea din Columbia. 
+S17: Într-o zi, Tesla a observat și semnalat un comportament neobișnuit al unui instrument care înregistra furtunile.
+S18: Cu echipamente foarte fiabile a putut realiza măsurători ale razelor care cădeau la mare distanță de laboratorul său, observând că undele de descărcare creșteau până la un vârf și apoi descreșteau înainte de a se repetă ciclul complet.
+S19: Tesla a presupus că acestea se datorau faptului că Pământul și atmosfera posedau electricitate, ceea ce făcea ca planeta să se comporte că un conductor de dimensiuni nelimitate, în care era posibilă transmisia de mesaje telegrafice fără fir și, mai mult, transmisia de energie electrică la oricare distanță terestră aproape fără pierderi prin rezonanță.
+S20: Tesla descoperise că putea produce un inel în jurul pământului, ca un clopot, cu descărcări la fiecare două ore și de asemenea putea să-l facă să rezoneze electric.

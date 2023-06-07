@@ -1,0 +1,19 @@
+
+Sumar de tip extract, 30% (5 fraze): S1, S2, S7, S12, S14
+Sumar de tip extract, 50% (8 fraze): S1, S2, S5,  S7,  S8,  S9, S11, S12
+
+S1: Lumina (din latină lumina) sau lumina vizibilă este radiația electromagnetică din porțiunea spectrului electromagnetic care poate fi percepută de ochiul uman.
+S2: Principala sursă de lumină pe Pământ este Soarele.
+S3: Acest proces de fotosinteză oferă aproape toată energia folosită de ființele vii.
+S4: Odată cu dezvoltarea luminii electrice și a sistemelor de alimentare, iluminatul electric a înlocuit eficient lumina de foc.
+S5: Unele specii de animale generează propria lor lumină, un proces numit bioluminiscență.
+S6: Proprietățile primare ale luminii vizibile sunt intensitatea, direcția de propagare, frecvența sau spectrul lungimii de undă și polarizarea.
+S7: Lumina vizibilă, ca și în cazul tuturor tipurilor de radiații electromagnetice (EMR), s-a găsit experimental că se mișcă mereu cu această viteză în vid.
+S8: În fizică, termenul lumină se referă uneori la radiații electromagnetice de orice lungime de undă, indiferent dacă sunt vizibile sau nu.
+S9: Când o undă de lumină este transformată și absorbită ca un foton, energia undei se prăbușește instantaneu într-un singur loc, iar acest loc este locul unde fotonul „ajunge”.
+S10: Această natură duală a luminii atât ca undă cât și ca particulă este cunoscută sub numele de dualismul undă-particulă.
+S11: Studiul luminii, cunoscut sub numele de optică, este un domeniu important de cercetare în fizica modernă.
+S12: Există tipuri diferite de surse de lumină, dar ele pot fi împărțite în două tipuri: naturale și artificiale, cele naturale includ stele, galaxii, fulgere și altele.
+S13: Stelele sunt corpuri cerești, reprezentând o sferă mare de gaz care produce energie prin fuziune, în primul rând prin conversia hidrogenului în heliu.
+S14: Există, de asemenea, surse biologice de lumină naturală în natură - animale și plante care emit lumină.
+S15: Acest fenomen se numește bioluminiscență și este caracteristic, de exemplu, licuricilor, planctonului, unor specii de ciuperci și unor animale marine.

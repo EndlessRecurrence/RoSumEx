@@ -1,0 +1,21 @@
+Sumar de tip extract, 30% (5 fraze):
+Sumar de tip extract, 50% (8 fraze):
+
+S1: Televizorul (sau simplu TV) este un monitor care poate recepționa semnalele TV dar care poate avea și alte funcții (jocuri video, internet, etc.).
+S2: Televizorul este un dispozitiv electronic folosit pentru a recepționa și reda emisiuni de radiodifuziune vizuală (televiziune radiodifuzată), care difuzează programe de televiziune.
+S3: Progresul tehnologic a transformat televizorul într-un dispozitiv complex, care poate accesa internetul și poate reda imagini tridimensionale.
+S4: Primul televizor color a fost produs de compania Toshiba în 1959, iar din 1960 era disponibil pentru cumpărare.
+S5: Începuturile televiziunii datează din 1923, când Farnsworth inventează iconograful, un dispozitiv pentru captarea imaginii și conversia acesteia în semnal electric.
+S6: În septembrie 1927 este realizată prima demonstrație a unei transmisii de televiziune.
+S7: Oamenii de știință au început să experimenteze cu ceea ce avea să fie conceptul de televiziune în urmă cu mai bine de un secol.
+S8: A trecut mai mult timp înainte ca televizoarele să fie în magazine – și chiar și atunci, a durat ceva timp până când majoritatea oamenilor au avut unul.
+S9: Televizoarele timpurii au funcționat cu utilizarea „semnalelor analogice” – în esență unde radio care conțineau atât imaginea, cât și sunetul unui program de televiziune.
+S10: Televizorul a decriptat semnalul și l-a transformat într-o imagine cu sunet. Ceea ce ai văzut și auzit nu a fost la fel de clar ca televizoarele de astăzi, dar a fost bun.
+S11: Până în 2009, posturile TV au înlocuit semnalele analogice cu semnale TV digitale, care este standardul utilizat astăzi.
+S12: Ecranul televizorului are zeci de mii de pixeli și fiecare are un „indice de culoare” și o „intensitate”.
+S13: Grupurile de biți sunt formate în unități mai mari numite octeți.
+S14: Informațiile împachetate pot fi transmise prin aer sau trimise prin fibră sau cablu.
+S15: Televizorul tău inteligent digital modern are o interfață care îți permite să controlezi toate funcțiile.
+
+50%: S1, S3, S5, S6, S9, S10, S11, S15, S16, S18
+30%: S1, S5, S6, S15, S16, S18

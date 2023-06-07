@@ -1,0 +1,24 @@
+
+Sumar de tip extract, 30% (6 fraze): S1 S2 S9 S11 S12 S18
+Sumar de tip extract, 50% (10 fraze): S1 S2 S7 S8 S9 S11 S12 S13 S16 S18
+
+S1: Portocalul dulce (Citrus sinensis) este un arbore fructifer din genul Citrus, care face parte din familia Rutaceae.
+S2:  Este vorba despre un arbore de mărime mijlocie, dar în condiții optime poate ajunge la 13 m înălțime, are coroana mare, rotundă sau piramidală, cu frunze ovale de 7–10 cm cu margine dreaptă și ramuri care uneori au spini mari de 10 cm.
+S3: Florile sunt albe parfumate, care apar izolat sau în buchet.
+S4: Fructul este Portocala dulce.
+S5: Portocalul a fost considerat în mod tradițional ca specia sinensis din genul Citrus.
+S6: Lămâiul, Lima și Portocalul amar (Citrus aurantium) aparțin aceluiași gen.
+S7: Investigații recente au demonstrat că majoritatea acestor pomi fructiferi sunt în realitate hibrizi produși din Pomelo (Citrus maxima), mandarina (Citrus reticulata) și Chitra (Citrus medica), iar numele științific corect este (Citrus sinensis).
+S8: Vechiul nume, fără specificația de hibrid, se folosește încă mult.
+S9: Portocalul are origine în India, Pakistan, Vietnam, sud estul Chinei și a fost adus de arabi în occident.
+S10: În limba română denumirea pomului fructifer portocal provine de la denumirea fructului său, portocală, împrumutată din limba greacă modernă.
+S11: Cultivarea acestui arbore face parte din agricultura multor țări, în Statele Unite (Florida și California), cea mai mare parte din țările mediteraneene, alte țări: Brazilia, Costa Rica, Belize, Cuba, Pakistan, China, India, Iran, Egipt, Turcia și Africa de Sud.
+S12: Creste în general în regiuni umede.
+S13: Se cultivă ca arbore agricol și ornamental.
+S14: Portocalele conțin vitaminele A și C, fier, calciu și potasiu, având un rol important în dezvoltarea sistemului imunitar al organismului, iar prin antioxidanții componenți reduc efectele îmbătrânirii.
+S15: Mineralele conținute contribuie la scăderea tensiunii arteriale, reduc riscul de infarct și de accident vascular, ajută la menținerea ritmului cardiac regulat și oferă energie organismului.
+S16: Există o mare varietate de portocali cu mari diferențe, fundamentale pentru calitatea și gustul fructului, care variază de la dulce la acru.
+S17: Portocalele sunt printre cele mai populare și consumate fructe din lume.
+S18: Portocalii sunt cei mai des cultivați pomi fructiferi din lume.
+S19: Fructele sunt sărace în calorii, au un conținut bogat de fitonutrienți esențiali pentru buna funcționare a organismului și sunt o sursă importantă de antioxidanți.
+S20: Datorită conținutului de potasiu, fibre li vitamina C, portocalele sunt un adjuvant natural pentru menținerea stării generale de sănătate, în special a sănătății inimii.
