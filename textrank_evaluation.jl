@@ -1,5 +1,6 @@
 module TextRankEvaluation 
     include("textrank.jl")
+    using ProgressBars
 
     function computeJaccardIndex(firstListOfIDs, secondListOfIDs) 
         setIntersection = intersect(Set(firstListOfIDs), Set(secondListOfIDs))
@@ -13,13 +14,14 @@ module TextRankEvaluation
         filenames = readdir(path)
         jaccardIndexSum::Float64 = 0.0
 
-        foreach(filename -> begin 
+        for testCaseIndex in ProgressBar(1:length(filenames))
+            filename = filenames[testCaseIndex]
             labels, sentences = TextRank.processLabelledSummarizationSampleText(path * filename)
             text = foldl((acc, x) -> acc * x * " ", sentences, init="")
             IDs, ranks, resultSentences = TextRank.run(text, "ro", percent)
             println(filename)
             jaccardIndexSum += computeJaccardIndex(labels[1][2], IDs)
-        end, filenames)
+        end
 
         averageJaccardIndex = jaccardIndexSum / length(filenames)
         println("Metrics for a " * string(round(Int64, percent * 100)) * "% compression rate:")
