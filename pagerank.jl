@@ -64,7 +64,9 @@ module PageRank
 
         scaledValues = newPrValues / minimum(newPrValues)
         finalRanks = scaledValues / sum(scaledValues)
-        zip(nodes, finalRanks) |> collect
+        zip(nodes, finalRanks) |> 
+            collect |>
+            pairs -> sort(pairs, by = (x) -> x[2], rev=true)
     end
 
     export run
